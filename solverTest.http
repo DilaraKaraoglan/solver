@@ -1,0 +1,6 @@
+@solverTest_HostAddress = http://localhost:5134
+
+GET {{solverTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

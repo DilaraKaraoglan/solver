@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQsMwCehn14=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dilar\\source\\repos\\solverTest\\solverTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools\\9.15.6755\\google.ortools.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.15.6755\\google.ortools.runtime.linux-arm64.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.15.6755\\google.ortools.runtime.linux-x64.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.15.6755\\google.ortools.runtime.osx-arm64.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.15.6755\\google.ortools.runtime.osx-x64.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.15.6755\\google.ortools.runtime.win-x64.9.15.6755.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\google.protobuf\\3.33.1\\google.protobuf.3.33.1.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.23\\microsoft.aspnetcore.jsonpatch.8.0.23.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.23\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.23.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

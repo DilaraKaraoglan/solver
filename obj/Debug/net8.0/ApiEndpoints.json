@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "solverTest.Controllers.AssignmentController",
+    "Method": "Solve",
+    "RelativePath": "api/Assignment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "solverTest.Models.AssignmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "solverTest.Controllers.SchedulerController",
+    "Method": "RandomSearchSchedule",
+    "RelativePath": "api/Scheduler/RandomSearchSchedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "solverTest.Models.SchedulerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
